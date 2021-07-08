@@ -1,5 +1,5 @@
 ### README
-This project is for lecture purposes only. In this project I tried to implement sentiment prediction analysis for patients. It tries to predict whether the patient will die or wont die. This prediction made by looking patients discharge summaries. Since the data is confidential, I can only share my prediction sentiment analysis implementation.
+This project is for lecture purposes only. In this project I tried to implement sentiment prediction analysis for patients. It tries to predict whether the patient's death will occur or not. This prediction made by looking patients discharge summaries. Since the data is confidential, I can only share my prediction sentiment analysis implementation.
 
 Data is provided from MIMIC-3 dataset. At the end there is a link attached you can look.
 
